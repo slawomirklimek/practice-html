@@ -35,5 +35,24 @@ body{
 
    .container p{
     font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    margin: 20px 0;
+   }
+
+   .container a{
+    color: grey;
+    font-size: 13px;
+    text-decoration: none;
+    margin: 15px 0 10px;
+   }
+
+   .container button{
+    background-color: cornflowerblue;
+    color: aliceblue;
+    font-size: 12px;
+    padding: 10px 45px;
+    border: 1px solid transparent;
+    border-radius: 8px;
     
    }
